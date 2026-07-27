@@ -5,7 +5,6 @@
 
 import numpy as np
 
-base_matrix = np.zeros((8, 8)) 
 
 # The forced moves between each number were calculated using logic
 # As a result, the 0-1 path, and the 16-23 path were forced.
